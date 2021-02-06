@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Airplane Seating App\Airplane Seating App\bin\Debug\Airplane Seating App.exe.config
+C:\Users\user\source\repos\Airplane Seating App\Airplane Seating App\bin\Debug\Airplane Seating App.exe
+C:\Users\user\source\repos\Airplane Seating App\Airplane Seating App\bin\Debug\Airplane Seating App.pdb
+C:\Users\user\source\repos\Airplane Seating App\Airplane Seating App\obj\Debug\Airplane Seating App.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Airplane Seating App\Airplane Seating App\obj\Debug\Airplane_Seating_App.Form1.resources
+C:\Users\user\source\repos\Airplane Seating App\Airplane Seating App\obj\Debug\Airplane_Seating_App.Properties.Resources.resources
+C:\Users\user\source\repos\Airplane Seating App\Airplane Seating App\obj\Debug\Airplane Seating App.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Airplane Seating App\Airplane Seating App\obj\Debug\Airplane Seating App.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Airplane Seating App\Airplane Seating App\obj\Debug\Airplane Seating App.exe
+C:\Users\user\source\repos\Airplane Seating App\Airplane Seating App\obj\Debug\Airplane Seating App.pdb
+C:\Users\user\source\repos\Airplane Seating App\Airplane Seating App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Airplane Seating App\Airplane Seating App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\Airplane Seating App\Airplane Seating App\obj\Debug\Airplane Seating App.csproj.CopyComplete
